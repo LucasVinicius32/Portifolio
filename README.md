@@ -5,7 +5,7 @@ Portifólio dos APIs (Aprendizagem por Projeto Integrador) desenvolvidos no curs
 ## Sobre mim
 
 <div> 
-     <img width="230px"  src= "https://github.com/LucasVinicius32/Portifolio-Sakaue/assets/100610137/abdf1e38-ed69-4122-9ee7-faad83996bd4"/>
+     <img width="330px"  src= "https://github.com/LucasVinicius32/Portifolio-Sakaue/assets/100610137/abdf1e38-ed69-4122-9ee7-faad83996bd4"/>
 <p>
   <p> Olá! Meu nome é Lucas Viniciuis e tenho 18 anos. Me dedico ao estudo da programação.
 Atualmente, estou cursando Desenvolvimento de software multiplataforma e já possuo
@@ -50,7 +50,7 @@ aprender coisas novas.
 
 |   *Tela do Técnico*   | 
 |:----------:|
-| <img width="460px" src= "https://user-images.githubusercontent.com/92696799/163494007-21cde00e-1f0f-4c82-a52f-51ee6eef6012.gif"/> |
+| <img width="860px" src= "https://user-images.githubusercontent.com/92696799/163494007-21cde00e-1f0f-4c82-a52f-51ee6eef6012.gif"/> |
 
 ### 2º Semestre/2022 • The Seven DSM
 <b>Link do repositório:</b> <a href="https://github.com/The-Seven-DSM">Send Me  - The Seven DSM</a>
@@ -90,7 +90,7 @@ aprender coisas novas.
      
 |   *Tela Inicial Do Sistema*   | 
 |:----------:|
-| <img width="460px" src="https://user-images.githubusercontent.com/92696799/204181812-06970d27-4e57-4527-9385-19950bafff8c.gif"/>|
+| <img width="860px" src="https://user-images.githubusercontent.com/92696799/204181812-06970d27-4e57-4527-9385-19950bafff8c.gif"/>|
 
 
 
@@ -132,6 +132,6 @@ aprender coisas novas.
      
 |   *Tela de relatório do Sistema*   | 
 |:----------:|
-| <img width="460px" src="https://github.com/wallacefelipe21/Portifolio-FATEC/assets/92696799/965fc033-62fa-48f8-90bb-85a0c8520af7"/>
+| <img width="860px" src="https://github.com/wallacefelipe21/Portifolio-FATEC/assets/92696799/965fc033-62fa-48f8-90bb-85a0c8520af7"/>
 
 
