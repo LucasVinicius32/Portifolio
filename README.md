@@ -50,7 +50,7 @@ aprender coisas novas.
 
 |   *Tela do Técnico*   | 
 |:----------:|
-| <img width="860px" src= "https://user-images.githubusercontent.com/92696799/163494007-21cde00e-1f0f-4c82-a52f-51ee6eef6012.gif"/> |
+| <img width="810px" src= "https://user-images.githubusercontent.com/92696799/163494007-21cde00e-1f0f-4c82-a52f-51ee6eef6012.gif"/> |
 
 ### 2º Semestre/2022 • The Seven DSM
 <b>Link do repositório:</b> <a href="https://github.com/The-Seven-DSM">Send Me  - The Seven DSM</a>
@@ -90,7 +90,7 @@ aprender coisas novas.
      
 |   *Tela Inicial Do Sistema*   | 
 |:----------:|
-| <img width="860px" src="https://user-images.githubusercontent.com/92696799/204181812-06970d27-4e57-4527-9385-19950bafff8c.gif"/>|
+| <img width="810px" src="https://user-images.githubusercontent.com/92696799/204181812-06970d27-4e57-4527-9385-19950bafff8c.gif"/>|
 
 
 
@@ -132,6 +132,6 @@ aprender coisas novas.
      
 |   *Tela de relatório do Sistema*   | 
 |:----------:|
-| <img width="860px" src="https://github.com/wallacefelipe21/Portifolio-FATEC/assets/92696799/965fc033-62fa-48f8-90bb-85a0c8520af7"/>
+| <img width="810px" src="https://github.com/wallacefelipe21/Portifolio-FATEC/assets/92696799/965fc033-62fa-48f8-90bb-85a0c8520af7"/>
 
 
