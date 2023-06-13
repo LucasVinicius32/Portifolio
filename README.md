@@ -81,7 +81,7 @@ aprender coisas novas.
 
 <h3> <b> Hardkills: </b> </h3>
 <ul>
-<li><b> HTML, CSS , React e Node (Front-End)
+<li><b> HTML, CSS e React (Front-End)
 <li> Node (Back-End)
 <li> Python (Pegar dados do Diário Oficial)
 <li><b>MySQL(BD)
